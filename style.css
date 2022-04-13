@@ -1,0 +1,123 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+html{
+
+    font-size: 22px;
+}
+
+
+
+body {
+    background-color: beige;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+/*header*/
+
+header{
+  
+    width: 50%;
+    background-color: rgb(76, 112, 145);
+    border: 3px solid black ;
+    display: flex;
+    justify-content: center;
+
+
+}
+ .important { 
+
+    
+     color:grey;
+
+     font-family: 'Anton', sans-serif;
+
+    
+
+
+    }
+
+
+ .blackpart{
+     color:black;
+     font-family:'Caveat', cursive;
+
+
+ }
+
+
+
+
+/*fin header*/
+
+/*Menu navegable*/
+
+.enlace {
+    color: grey;
+    font-family:'Caveat', cursive;
+    display: flex;
+    justify-content:center;
+    width: 80%;
+
+}
+
+
+/*Menu navegable*/
+
+
+
+/*carrousel de imagenes*/
+
+
+.imagesposition {
+
+    
+display: flex;
+justify-content: center;
+
+
+}
+
+
+
+
+.image123 { width: 30%;
+
+    
+}
+
+p{
+    font-size: 1em;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*fin carrousel de imagenes*/
+
+/*footer*/
+
+.socialmedia {
+
+    color: rgba(46, 45, 45, 0.925);
+    font-size: 40%;
+    font-family:'Anton', sans-serif;
+    margin: 5%;
+    display: flex;
+    justify-content:center;
+    width: 80%;
+
+
+    
+
+
+}
+/*Fin Footer*/
+

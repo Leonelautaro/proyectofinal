@@ -30,6 +30,7 @@ header{
     border: 3px solid black ;
     display: flex;
     justify-content: center;
+    
 
 
 }
@@ -39,6 +40,7 @@ header{
      color:grey;
 
      font-family: 'Anton', sans-serif;
+    
 
     
 
@@ -100,6 +102,11 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+.image123:hover {
+    transform: scale(3);
+    transition: all 3s;
+}
 /*fin carrousel de imagenes*/
 
 /*footer*/

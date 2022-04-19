@@ -76,39 +76,6 @@ header{
 
 
 
-/*carrousel de imagenes*/
-
-
-.imagesposition {
-
-    
-display: flex;
-justify-content: center;
-
-
-}
-
-
-
-
-.image123 { width: 30%;
-
-    
-}
-
-p{
-    font-size: 1em;
-    color: grey;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-
-.image123:hover {
-    transform: scale(3);
-    transition: all 3s;
-}
-/*fin carrousel de imagenes*/
-
 /*footer*/
 
 .socialmedia {

@@ -1,0 +1,19 @@
+{
+  "name": "desafio-entregable-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonelautaro/proyectofinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonelautaro/proyectofinal/issues"
+  },
+  "homepage": "https://github.com/Leonelautaro/proyectofinal#readme",
+  "description": ""
+}

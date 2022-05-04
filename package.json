@@ -15,5 +15,9 @@
     "url": "https://github.com/Leonelautaro/proyectofinal/issues"
   },
   "homepage": "https://github.com/Leonelautaro/proyectofinal#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.16"
+  }
 }

@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+body header {
+  background-color: white;
+  justify-content: center;
+}
+body header h1 {
+  background-color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body footer {
+  background-color: black;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */

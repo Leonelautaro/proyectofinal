@@ -1,14 +1,42 @@
 body {
     background-color: black;
     header {
-        background-color: white;
-        justify-content: center;
+        background-color: black;
+        
         h1 {
-            background-color: black;
-            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+                background-color: black;
+                margin: 0%;
+                padding: 0%;
+                font-family: 'Anton', sans-serif;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            
+          
+        
             
 
         }
+        h2 {
+            background-color: black;
+            margin: 0%;
+            padding: 0%;
+            font-family: 'Anton', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+         }
+
+         h3 {
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            font-family: 'Caveat', cursive;
+
+
+         }
 
     }
 }

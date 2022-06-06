@@ -1,3 +1,4 @@
+/*colores*/
 body {
   background-color: black;
 }
@@ -5,7 +6,7 @@ body header {
   background-color: black;
 }
 body header h1 {
-  background-color: black;
+  background-color: grey;
   margin: 0%;
   padding: 0%;
   font-family: "Anton", sans-serif;
@@ -14,7 +15,7 @@ body header h1 {
   align-items: center;
 }
 body header h2 {
-  background-color: black;
+  background-color: grey;
   margin: 0%;
   padding: 0%;
   font-family: "Anton", sans-serif;
@@ -23,7 +24,7 @@ body header h2 {
   align-items: center;
 }
 body header h3 {
-  background-color: black;
+  background-color: grey;
   display: flex;
   justify-content: center;
   font-family: "Caveat", cursive;
@@ -31,9 +32,16 @@ body header h3 {
 
 body footer {
   display: flex;
-  padding: 2rem;
-  background-color: black;
   justify-content: center;
+}
+body footer ul li {
+  display: inline;
+}
+body footer ul li a {
+  background-color: black;
+  font-family: "Caveat", cursive;
+  color: grey;
+  text-decoration: none;
 }
 
 nav {
@@ -48,9 +56,162 @@ nav nav div {
   background-color: grey;
   padding: 0%;
 }
+.contenedornav {
+  padding: 0;
+}
+
 section {
   display: flex;
   justify-content: center;
+  margin: 0 auto;
+}
+.contenedor {
+  background-color: black;
+  width: 95%;
+  max-width: 1000%;
+  margin: 0% auto;
+}
+
+body {
+  background-color: black;
+}
+body header {
+  background-color: black;
+}
+body header h1 {
+  background-color: black;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Anton", sans-serif;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body header h2 {
+  background-color: black;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Anton", sans-serif;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body header h3 {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  font-family: "Caveat", cursive;
+  color: grey;
+}
+
+body {
+  background-color: black;
+}
+body section {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+body section div p {
+  color: grey;
+  display: flex;
+  margin: 0%;
+  justify-content: center;
+  font-family: "Anton", sans-serif;
+}
+
+section div .img {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: black;
+}
+body header {
+  background-color: black;
+}
+body header h1 {
+  background-color: black;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Anton", sans-serif;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body header h2 {
+  background-color: black;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Anton", sans-serif;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body header h3 {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  font-family: "Caveat", cursive;
+  color: grey;
+}
+
+section div {
+  display: inline;
+}
+section div ul {
+  color: grey;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body header {
+  background-color: black;
+}
+body header h1 {
+  background-color: black;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Anton", sans-serif;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body header h2 {
+  background-color: black;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Anton", sans-serif;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body header h3 {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  font-family: "Caveat", cursive;
+  color: grey;
+}
+
+form div {
+  background-color: black;
+}
+form div label {
+  font-family: "Anton", sans-serif;
+  color: grey;
 }
 
 /*# sourceMappingURL=style.css.map */

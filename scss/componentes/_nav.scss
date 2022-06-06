@@ -1,0 +1,29 @@
+
+
+nav{
+    background-color: $color-tipografia;
+    display: flex;
+    justify-content: center;
+
+    nav{ 
+        background-color: red;
+
+        div {
+            background-color: $color-tipografia;
+            padding: 0%;
+         
+            div{
+
+                ul {
+                    li{
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+.contenedornav {
+    padding: 0;
+}

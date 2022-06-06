@@ -1,0 +1,33 @@
+
+
+
+body {
+    footer { 
+        
+        display: flex;
+        justify-content: center;
+       
+       
+    
+         ul{ 
+            
+             li{
+                display: inline;
+
+                a {
+            background-color: $color-fondo;
+            font-family:'Caveat', cursive;
+            color: $color-tipografia;
+            text-decoration: none;
+
+
+
+                }
+              
+            
+        }
+    }
+
+        
+    }
+}
